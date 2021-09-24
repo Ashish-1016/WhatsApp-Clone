@@ -5,4 +5,4 @@ This is a WhatsApp Clone using React.js . It contains Firebase as its backend wh
 https://whatsapp-clone-s.web.app/
 
 The above link is the Deployed version of the WhatsApp using Firebase Hosting.
-Code will be upload as soon as possible.
+Code will be uploaded as soon as possible.
